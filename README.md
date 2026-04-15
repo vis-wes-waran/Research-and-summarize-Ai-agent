@@ -4,7 +4,8 @@ Here is a professional and clean **README.md** tailored for your project. It bre
 
 # 🤖 AI Research Assistant & Emailer
 
-An automated pipeline built with **LangChain** and **GPT-4** that researches academic papers on **arXiv**, generates beginner-friendly summaries, and automatically emails the results to a specified recipient.
+An automated pipeline built with **LangChain** and **Groq- gpt-oss-120b
+** that researches academic papers on **arXiv**, generates beginner-friendly summaries, and automatically emails the results to a specified recipient.
 
 ---
 
